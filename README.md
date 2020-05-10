@@ -16,3 +16,6 @@ Everything is written to fit mobile responsive specification.
 ### Naming Conventions
 There are points where I have tried to loosely follow BEM CSS such as article-item and article-text-group.
 Everything which doesn't follow this tries to match the section it is for.
+
+### Javascript
+The javascript used for the slider and dropdown menus were taken from the w3schools website and altered to fit the webpage.
