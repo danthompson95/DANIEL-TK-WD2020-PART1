@@ -2,7 +2,8 @@
 
 ## Documentation
 
-This website is built purely in HTML and CSS and follows the design brief given.
+This website is built purely in HTML and SCSS and follows the design brief given.
+It utilises no extra tools apart from importing the text family.
 
 ### Syntax Choices (CSS)
 Camel case has been used for any ID's
